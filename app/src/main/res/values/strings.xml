@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">CRUD Food Oder</string>
+    <string name="price">Price</string>
+    <string name="description">Description</string>
+    <string name="dollarsign">$</string>
+    <string name="name">Name</string>
+    <string name="todo">TODO</string>
+    <string name="oder_name">Oder Name</string>
+    <string name="oder_number">Oder Number :</string>
+    <string name="chicken_piece">Chicken Piece</string>
+    <string name="_0">0</string>
+    <string name="your_name">Your name</string>
+    <string name="number">Number</string>
+    <string name="meaty_portobello">Meaty portobello Shuwarma make for this perfect vegetarian burger.</string>
+    <string name="order_now">Order Now</string>
+    <string name="my_order">My Order</string>
+</resources>
